@@ -1,5 +1,5 @@
 # pyiikocloudapi
-##Python iiko cloud api сервис.
+## Python iiko cloud api сервис.
 
 #### iiko Transport(iiko Cloud API) по словам _**разработчиков**_ это по сути горячие хранилище без доступа к данным БД
 
